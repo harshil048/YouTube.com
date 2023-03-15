@@ -1,2 +1,2 @@
 # Create YouTube.Com clone using HTML and CSS.
-<img src="/HTML-CSS/preview/preview.png">
+<img src="YouTube.com/preview/preview.png">
